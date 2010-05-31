@@ -1,22 +1,22 @@
-== BASIC BLOG
-== @SeanPlusPlus
+== application  : BasicBlog
+== author       : @SeanPlusPlus
+== last updated : 2010-05-31
 
 Hello there, how's it going? I hope that all is well.
 
 So ... This is a very basic blog I have been developing using Ruby on Rails. 
 
-The idea is to have these features working out of the box:
+My goal is to have these features working out of the box:
 
-  1. Authentication (and authors)
+  1. Restful Authentication
   2. a WYSIWYG text editor
   3. categories
   4. tags
   5. comments
   * Absolutely zero CSS ( you can style as you wish :)
 
-Right now, none of the five features listed above are working (I have stitched all of 
-them together in the past, but want to do it right for each module this time around).
+The below features are currently working (I will update this list as I add each module):
 
-As I update each feature, I'll make note of it here.
+  1. Restful Authentication
 
 Cheers, and remember to eat plenty of fruits and vegetables.
